@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "First one",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "first",
+      "id": 2
+    },
+    {
+      "title": "ass",
+      "description": "sass",
+      "id": 3
+    },
+    {
+      "title": "I made this",
+      "description": "Made by me",
+      "userId": "109508089094219861033",
+      "id": 4
+    },
+    {
+      "title": "Now with history",
+      "description": "History is now",
+      "userId": "109508089094219861033",
+      "id": 5
+    }
+  ]
+}
